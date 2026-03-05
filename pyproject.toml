@@ -10,6 +10,7 @@ dependencies = [
     "torch",
     "pandas",
     "scikit-learn>=1.8.0",
+    "tensorboard>=2.20.0",
 ]
 
 [[tool.uv.index]]
